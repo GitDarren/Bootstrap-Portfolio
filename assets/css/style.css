@@ -1,0 +1,52 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body    {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url(../images/concrete-texture.png);
+    margin: 0 0 50px;
+}
+
+.headings, .navbar-brand  {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+.navbar-header   {
+    background-color: white;
+    border-bottom: 2px solid lightgray;
+}
+
+.navbar-brand    {
+    text-decoration: none;
+    background-color: #4aaaa5;
+    padding: 0;
+    height: 100px;
+    width: 280px;
+}
+
+h1  {
+    padding-top: 40px;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+.nav.navbar-nav.navbar-right  {
+    padding-top: 30px;   
+}
+
+.nav-links {
+    padding: 0 15px 0 15px;
+    color: gray;
+}
+.border {
+    border-left: 1px solid grey;
+}
+
+a.nav-links {
+    padding: none;
+}
+
