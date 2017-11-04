@@ -10,7 +10,6 @@ body    {
 
 .headings, .navbar-brand  {
     font-family: 'Georgia', Times, Times New Roman, serif;
-
 }
 
 .navbar-header   {
@@ -50,3 +49,69 @@ a.nav-links {
     padding: none;
 }
 
+.jumbotron  {
+background-color: white;
+padding: 20px;
+border: 1px solid lightgray;
+margin-bottom: 20px;
+}
+
+h2  {
+    font-size: 32px;
+    color: #4aaaa5;
+    font-weight: bold;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.long-line  {
+    border-bottom: 2px solid lightgray; 
+    margin-bottom: 20px;
+}
+
+.profile-pic    {
+    float: left;
+    margin: 0 15px 0 0;
+    width: 200px;
+}
+
+.intro-para {
+    line-height: 150%;
+}
+
+.contact-info   {
+    background-color: white;
+    width: 248px;
+    float: right;
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+.panel.panel-default {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4aaaa5;
+    text-align: center;
+    padding: 30px;
+}
+
+.short-line {
+    border-bottom: 2px solid lightgray; 
+    margin-bottom: 10px;
+}
+
+.small-icon {
+    padding: 9px;
+    align-items: center;
+}
+
+.footer {
+    background-color: #666666;
+    border-top: 7px solid #4aaaa5;
+    padding: 20px;
+    text-align: center;
+    color: #777777;
+    left: 0;
+    bottom: 0;
+    height: 25px;
+    width: 100%;
