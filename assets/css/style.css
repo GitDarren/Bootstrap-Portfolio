@@ -124,3 +124,23 @@ h2  {
     bottom: 0;
     height: 50px;
 }
+
+@media screen and (max-width: 990px) {
+    
+    .panel-title .headings  {
+        text-align: left;
+    }
+
+    .small-icon {
+       width: 50%;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px)  {
+
+}
